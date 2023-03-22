@@ -1,0 +1,18 @@
+{ "course": {
+    "name": "Alex Clark",
+    "Location": "McKinney, TX",
+    "difficulty": 3,
+    "rating": 4.4,
+    "holes": [
+        {
+            "hole": 1,
+            "par": 3,
+            "distance": 278
+        },
+        {
+            "hole": 2,
+            "par": 3,
+            "distance": 150
+        }
+    ]
+}}
